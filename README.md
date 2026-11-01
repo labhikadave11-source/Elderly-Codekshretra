@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🌿 Elderly — CareCircle AI
@@ -152,3 +153,6 @@ Elderly is a care-coordination and wellness-support tool, **not a medical device
 **Made with 💚 for healthier, connected ageing**
 
 </div>
+=======
+# Elderly-Codekshretra
+>>>>>>> 9880ea702bffebeecfc43d6cbbfdfc4babe65a80
